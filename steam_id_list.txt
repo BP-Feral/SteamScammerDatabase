@@ -1,0 +1,8 @@
+ENTRIES = {
+    "76561198002195605": {
+        "profile_url": "https://steamcommunity.com/profiles/76561198002195605",
+        "description": "Link scam attempt",
+        "urls" ["https://rustgrate.com"],
+        "evidence": ["screenshot_1_0"]
+    }
+}
