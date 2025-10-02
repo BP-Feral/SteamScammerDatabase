@@ -10,5 +10,11 @@
         "description": "Link scam attempt",
         "urls": ["www.youtube.com/post/UgkxcOxD6hpXraRGN2zU5iPtAVcAZUi_m07D", "https://store.workshopawardsvoted.com/sharedfiles/filesdetails/aug_poseidon/"],
         "evidence": ["data/76561199497165681/screenshot_0.png", "data/76561199497165681/screenshot_1.png"]
+    },
+    "76561199772086669": {
+        "profile_url": "https://steamcommunity.com/profiles/76561199772086669",
+        "description": "Link scam attempt",
+        "urls": ["https://zhanchangwangluo.com/"],
+        "evidence": ["data/76561199772086669/screenshot_0.png"]
     }
 }
